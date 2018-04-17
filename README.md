@@ -1,7 +1,7 @@
 # Jogo de Asteroides
 
-<p>Nave deve destruir a chuva de asteroides.
-Perde se um asteroide colidir cum a nave. 
+<p>Nave deve destruir a chuva de asteroides.</br>
+Perde se um asteroide colidir com a nave. 
 </p>
 
 </br>
